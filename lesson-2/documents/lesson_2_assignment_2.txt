@@ -1,0 +1,17 @@
+PROJECT Cognitive Bot Development
+CLIENT John Doe
+ADDRESS ONE INFINITE LOOP CUPERTINO, CA, 95014, USA
+EMAIL johndoe@example.com
+DATE May 19, 2017
+
+PROJECT Cognitive Bot Development
+CLIENT Lara Harrow
+ADDRESS California Route 2, CA, 94129, USA
+EMAIL jackharrow@example.com
+DATE May 19, 2017
+
+PROJECT Cognitive Bot Development
+CLIENT John Smith
+ADDRESS Oak Route 65, CA, 94156, USA
+EMAIL z.com@example.com
+DATE Jan 10, 2017
